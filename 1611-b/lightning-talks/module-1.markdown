@@ -8,7 +8,7 @@ Amara Lovato:
 Outline:
 
 
-Andrew Wooten:Health Benefits of Eastern Spices
+Andrew Wooten:
 
 Outline:
 
@@ -20,16 +20,15 @@ Outline:
 
 
 
-Bailey Ward: Honey Badgers
+Bailey Ward:
 
 Outline:
 
 
 
-Beth Knight: Use viewcontroller to create a simple iphone app in under 5 minutes!
+Beth Knight:
 
 Outline: 
-
 
 
 
@@ -38,8 +37,7 @@ Brandon Randall: Coaching and training youth athletics
 Outline:
 
 
-
-Casey Macaulay: Design Thinking/Human Centered Design
+Casey Macauley:
 
 Outline:
 
@@ -51,7 +49,7 @@ Outline:
 
 
 
-Christopher Dale:   "Courage and the use of one liners"
+Christopher Dale:
 
 Outline:
 
@@ -63,19 +61,19 @@ Outline:
 
 
 
-Courtney Meyerhofer: how interferometers work
+Courtney Meyerhofer:
 
 Outline:
 
 
 
 
-Daniel Olson: Sushi
+Daniel Olson:
 
 Outline:
 
 
-Edilene Cruz: Habitica(and maybe others productivity apps)
+Edilene Cruz:
 
 Outline:
 
@@ -93,15 +91,15 @@ Outline:
 
 
 
-Katy Farmer: How to Play the Trumpet Indoors
+Katy Farmer:
 
 Outline:
 
 
 
-Ken Lee: Grants for school while unempolyed
+Ken Lee:
 
-Outline: 
+Outline:
 
 
 
@@ -111,9 +109,9 @@ Outline:
 
 
 
-Mark Van Akkeren: (topic) The slow way to greater holistic well being (<-- likely to change but the gist of it) 
+Mark Van Akkeren:
 
-Outline: 
+Outline:
 
 
 
@@ -129,7 +127,7 @@ Outline:
 
 
 
-Ryan Spink: Cooking with an Immersion Circulator
+Ryan Spink:
 
 Outline:
 
